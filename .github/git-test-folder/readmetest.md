@@ -32,7 +32,7 @@ cd /workspace/tmp
 ### HTTPS
 
 ```sh
-git clone https://github.com/andrew-wc-brown/Github-Examples.git
+git clone https://github.com/teejayne/Github-Examples.git
 cd GitHub-Examples
 ```
 
